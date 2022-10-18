@@ -2,3 +2,4 @@
 999
 1234
 local test
+local test 2
