@@ -4,11 +4,12 @@
 classtes.ipynb : classfication (custom template)
 
 [Level 02]
-Eff.ipynb : objection detection (efficientDet)
+eff.ipynb : objection detection (efficientDet)
 EDA.ipynb : EDA
 FasterRCNN_custom.ipynb : FasterRCNN Simple
-metric_basic.ipynb : mAP 
-Confidence.ipynb : check result
-Ensemble : ensemble source
+metric_basic.ipynb : mAP test
+confidence.ipynb : result check
+ensemble : ensemble code
+rembg.ipynb : remove BG code
 
 </pre>
