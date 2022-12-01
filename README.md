@@ -11,5 +11,6 @@ metric_basic.ipynb : mAP test
 confidence.ipynb : result check
 ensemble : ensemble code
 rembg.ipynb : remove BG code
+confusion_matrix.ipynb : confusion matrix visualization
 
 </pre>
